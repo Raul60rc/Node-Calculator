@@ -1,0 +1,1 @@
+console.log(__dirname); // dirname allows to locate the file wherever it is  just add a + & file name. 
